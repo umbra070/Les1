@@ -29,7 +29,7 @@ void main() {
     IO.println(String.format("Ex5\n\rOperation1: frog = %f\n\rOperation2: frog * 10 = %f\n\rOperation3: frog / 3.5 = %f\n\rOperation4: frog + 4 = %f", frog, frog=frog*10, frog=frog/3.5, frog = frog+4 ));
     IO.println(String.format("Ex6\n\rBoxer1 mass = %f\n\rBoxer2 mass = %f\r\nTotal mass of boxers = %f\n\rMass difference of boxers = %f\n\rEx7\n\rRemainder after division = %f",firstBoxerMass, secondBoxerMass, firstBoxerMass+secondBoxerMass, secondBoxerMass-firstBoxerMass, secondBoxerMass%firstBoxerMass));
     IO.println(String.format("Ex8.1\n\rВсего работников в компании %d\n\rEx8.2\n\rЕсли в компании работает %d человек, то всего %d часов работы может быть поделено между сотрудниками",totalPersons=totalHours/hourPerPerson, totalPersons=totalPersons+newPersons, totalHours/totalPersons));
-    IO.println("**************************************");
+    IO.println("***************************************");
     //*************************************
 }
 
